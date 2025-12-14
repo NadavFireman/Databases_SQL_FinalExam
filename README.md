@@ -17,8 +17,7 @@ The completion of this challenging exam with a final grade of **98** validates e
 
 ## Repository Content
 
-* **`Final_Exam_Solution_Grade_98.pdf`**: The official, reviewed exam solution, reflecting the high standard of work that achieved a grade of 98.
-* **`docs/Final_Exam_Instructions.pdf`**: Original Final Exam instructions.
+* **`Databases_SQL_FinalExam.pdf`**: The complete document containing the original exam questions, the full solutions, and the final graded results (Score 98).
 
 ***
 *Course: Databases (SQL), Shenkar College, IE&M*
